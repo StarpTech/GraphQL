@@ -15,8 +15,8 @@ select from ( traverse out("walk_with") from Animal where name = "Lisa" ) where 
 ![simple-select](https://raw.githubusercontent.com/StarpTech/GraphQL/develop/img/simple-select.png)
 
 ##Todo
+- [X] Setup whole Project in IntelliJ
 - [ ] Implement the fundamental rules in antlr.
-- [ ] Setup whole Project in IntelliJ
 - [ ] Implement Parse-Tree Listeners
 
 ##Inspiration
