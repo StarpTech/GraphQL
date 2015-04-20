@@ -1,4 +1,4 @@
-// Generated from .\grammar\SQLParser.g4 by ANTLR 4.5
+// Generated from E:\Repositorys\GraphQL\src\grammar\SQLParser.g4 by ANTLR 4.5
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
