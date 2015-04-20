@@ -1,0 +1,1 @@
+select from ( traverse inE("walk_with", "Label2") from Animal where depth <= 3 ) where name = "Lisa" order by age asc limit 10
