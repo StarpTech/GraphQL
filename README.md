@@ -12,7 +12,7 @@ Create a grammar which is:
 select from ( traverse out("walk_with") from Animal where name = "Lisa" ) where name = "Dog" order by age asc limit 10
 ```
 
-![simple-select](https://raw.githubusercontent.com/StarpTech/OrientParser/develop/img/simple-select.png)
+![simple-select](https://raw.githubusercontent.com/StarpTech/GraphQL/develop/img/simple-select.png)
 
 ##Todo
 - [ ] Implement the fundamental rules in antlr.
