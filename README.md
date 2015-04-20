@@ -20,7 +20,10 @@ select from ( traverse out("walk_with") from Animal where name = "Lisa" ) where 
 - [ ] Implement Parse-Tree Listeners
 
 ##Inspiration
-Thanks to [OrientDb](http://orientdb.com) the first Multi Model DBMS with Document & Graph engine 
+Thanks to [OrientDb](http://orientdb.com) the first Multi Model DBMS with Document & Graph engine
+
+##Motivation
+The best way to understand programming languages and dsl's in deep is to know how they are created.
 
 ##Contributing
 1. Get Started ANTLR: [Getting Started with ANTLR v4](https://theantlrguy.atlassian.net/wiki/display/ANTLR4/Getting+Started+with+ANTLR+v4)
