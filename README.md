@@ -6,7 +6,7 @@ Create a grammar which is:
 - Expressive in working with Graph and Document data.
 - Based on the concept of Multi Model DBMS with Document & Graph.
 
-##Example (test purposes)
+##Example
 
 ```SQL
 select from ( traverse out("walk_with") from Animal where name = "Lisa" ) where name = "Dog" order by age asc limit 10
@@ -19,7 +19,7 @@ select from ( traverse out("walk_with") from Animal where name = "Lisa" ) where 
 - [ ] Setup whole Project in IntelliJ
 - [ ] Implement Parse-Tree Listeners
 
-#Inspiration
+##Inspiration
 Thanks to [OrientDb](http://orientdb.com) the first Multi Model DBMS with Document & Graph engine 
 
 ##Contributing
